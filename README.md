@@ -1,3 +1,9 @@
+# Added more examples to PyKinect2
+1) examples/basic_2D.py shows examples of displaying body, body index, color, align color, depth and IR images in 2D using OpenCV
+1) examples/basic_3D.py shows examples of displaying coloured point cloud, joint and joint orientation in 3D using Open3D
+
+Other than the prerequisites stated below, we will also need [opencv-python](https://pypi.org/project/opencv-python/) and [open3d-python](http://www.open3d.org/docs/tutorial/Basic/python_interface.html) for the 2D and 3D display as we are not using PyGame for the display
+
 # PyKinect2
 
 Enables writing Kinect applications, games, and experiences using Python.  Inspired by the original [PyKinect project on CodePlex](http://pytools.codeplex.com/wikipage?title=PyKinect).
