@@ -1,4 +1,9 @@
 # Added more examples to PyKinect2
+<p float="middle">
+  <img src="https://github.com/limgm/PyKinect2/blob/master/examples/OpenCV2D.png" width="382" height="200" />
+  <img src="https://github.com/limgm/PyKinect2/blob/master/examples/Open3D.png" width="345" height="200" />
+</p>
+
 1) examples/basic_2D.py shows examples of displaying body, body index, color, align color, depth and IR images in 2D using OpenCV
 1) examples/basic_3D.py shows examples of displaying coloured point cloud, joint and joint orientation in 3D using Open3D
 
